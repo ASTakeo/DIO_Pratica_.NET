@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alexssandro.takeo\\OneDrive\\Programação\\_C#\\_Cursos - Dio\\.Net_C#\\_Projeto_Acervo\\Projeto_Acervo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alexssandro.takeo\\OneDrive\\Programação\\_C#\\_Cursos - Dio\\.Net_C#\\_Projeto_Acervo\\Projeto_Acervo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alexssandro.takeo\\OneDrive\\Programação\\_C#\\_Cursos - Dio\\.Net_C#\\_Projeto_Acervo\\Projeto_Acervo.csproj",
+        "projectName": "Projeto_Acervo",
+        "projectPath": "C:\\Users\\alexssandro.takeo\\OneDrive\\Programação\\_C#\\_Cursos - Dio\\.Net_C#\\_Projeto_Acervo\\Projeto_Acervo.csproj",
+        "packagesPath": "C:\\Users\\alexssandro.takeo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexssandro.takeo\\OneDrive\\Programação\\_C#\\_Cursos - Dio\\.Net_C#\\_Projeto_Acervo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alexssandro.takeo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
